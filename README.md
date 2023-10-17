@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iambhavesh
 - 👀 I’m interested in Front End development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently looking to work in Ecommerce Websites
 - 💞️ I’m looking to collaborate on React JS
 - 📫 How to reach me bhaveshrathod48@gmail.com
 
